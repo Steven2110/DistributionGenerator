@@ -2,7 +2,7 @@
 Part of simulation laboratory assignment № 14. 
 
 ## Description
-In this project we are creating an API to generate random variable using [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution) and [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution) from [numpy](https://numpy.org/) library. Later the API will be used by [Bank Simulation Mobile App](https://github.com/Steven2110/BankSimulation) to generate random variable to simulate bank queueing system.
+In this project we are creating an API to generate random variable using [Poisson Distribution](https://en.wikipedia.org/wiki/Poisson_distribution) and [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution) from [numpy](https://numpy.org/) library. Later the API will be used by [Bank Simulation iPad App](https://github.com/Steven2110/BankSimulation) to generate random variable to simulate bank queueing system.
 
 ## How to deploy API:
 1. Install all requirements from `requirements.txt` using this command `pip install -r requirements.txt`. Wait until all required libraries finished installed.
